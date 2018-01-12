@@ -18,20 +18,23 @@ TBA
 
 **[Course Project Examples](project-examples.md)**
 
-Tuesday | Thursday | Project Milestone | HW
---- | --- | --- | ---
-10/31: Introduction / Expectations / Intro to Data Science | 11/2: Numpy & Pandas Part 1
-11/7: Pandas Part 2 / Plotting | 11/9: Exploratory Data Analyis | | HW 1 Assigned (Th)
-11/14: Introduction to Machine Learning & Decision Trees | 11/16: Machine Learning Topics: Cross Validation & Feature Engineering ||HW 1 Due (Th) 
-11/21: K-Nearest Neighbors | 11/23: No class Thanksgiving  ||
-11/28: Logistic Regression | 11/30: Linear Regression  || 
-12/5: Regression 2: Ridge, lasso, regularization  | 12/7: Random Forest/Gradient Boosting/XGBoost | Project Proposal due|HW 2 Assigned (Th)
-12/12: Advanced Sklearn: Grid Search, Pipelines, & Feature Unions | 12/14: Naive Bayes & Support Vector Machines | | HW 2 Due (Th) 
-12/19: Clustering | 12/21: Dimensionality Reduction | | HW 3 Assigned (Tu)
-12/26: No class holiday break | 12/28: No class holiday break ||
-1/2: Natural Language Processing Part 1 | 1/4: Natural Language Processing Part 1 || HW 3 Due (Th)
-1/9: Deep Learning | 1/11: Machine Learning Group Challenge |
-1/16: Project work & review session | 1/18: Final Project Presentations | Final Project due|
+Week | Tuesday | Thursday | Project Milestone | HW
+--- | --- | --- | --- | ---
+1 | 1/16: Introduction / Git & Command-line |   1/18: Numpy & Pandas Part 1
+2 | 1/23: Pandas Part 2 / Plotting | 1/25: Exploratory Data Analysis | | HW 1 Assigned (Th)
+3 | 1/30: Introduction to Machine Learning & Decision Trees | 2/1: Machine Learning Topics: Cross Validation & Feature Engineering ||HW 1 Due (Th) 
+4 | 2/6: K-Nearest Neighbors | 2/8: No class Thanksgiving  ||
+5 | 2/13: Linear Regression | 2/15:  Logistic Regression || 
+6 | 2/20: Regression 2: Ridge, lasso, regularization  | 2/22: Random Forest/Gradient Boosting/XGBoost | Project Proposal due|HW 2 Assigned (Th)
+7 | 2/27: Advanced Sklearn: Grid Search, Pipelines, & Feature Unions | 3/1: Naive Bayes & Support Vector Machines | | HW 2 Due (Th) 
+8 | 3/6: Clustering | 3/8: Dimensionality Reduction | | HW 3 Assigned (Tu)
+9 | 3/13: Natural Language Processing Part 1 | 1/4: Natural Language Processing Part 1 || HW 3 Due (Th)
+10 | 3/20: Project work & review session | 3/22: Final Project Presentations | Final Project due|
+
+Flex topics:
+- Deep learning
+- Predictive modeling group competition
+
 
 ### Installation and Setup
 * Install the [Anaconda distribution](http://continuum.io/downloads) of Python 2.7x.
