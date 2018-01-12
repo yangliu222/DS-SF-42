@@ -1,7 +1,9 @@
-# DS-SF-40 Course Repository
-Course materials for General Assembly's Data Science course in San Francisco (10/31/17 - 1/16/17)
+# DS-SF-42 Course Repository
+Course materials for General Assembly's Data Science course in San Francisco (1/16/18 - 3/22/18)
 
-**Instructor:** [George McIntire](https://www.linkedin.com/in/georgemcintire)
+**Instructor:** Gus Ostow
+
+**Instructional Assistant:** Stewart Knox
 
 
 **Course Times**
@@ -10,9 +12,7 @@ Tuesday/Thursday: 6:30pm - 9:30pm
 
 **Office hours:** 
 
-Tue/Thurs: 5:30pm - 6:30pm (right before class)
-
-All courses / office hours will be held at GA, 225 Bush Street
+TBA
 
 **[Course Project Information](project.md)**
 
