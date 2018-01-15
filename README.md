@@ -30,7 +30,7 @@ Week | Tuesday | Thursday | Project Milestone | HW
 6 | 2/20: Group Classification Challenge  | 2/22: Decision Trees| Project Proposal due (Th)|HW 2 Assigned (Th)
 7 | 2/27: Ensembles | 3/1: Advanced Sklearn: Gridsearch and Pipelines | | HW 2 Due (Th) 
 8 | 3/6: Group Regression Challenge | 3/8: SQL and Databases | | HW 3 Assigned (Tu)
-9 | 3/13: Natural Language Processing | 1/4: Dimensionality Reduction|| HW 3 Due (Th)
+9 | 3/13: Natural Language Processing | 3/15: Dimensionality Reduction|| HW 3 Due (Th)
 10 | 3/20: Project work & review session | 3/22: Final Project Presentations | Final Project due (Th)|
 
 Flex topics:
