@@ -23,7 +23,7 @@ In-person: Thursday 5:30-6:30PM
 Week | Tuesday | Thursday | Project Milestone | HW
 --- | --- | --- | --- | ---
 1 | 1/16: Introduction / Git & Command-line |   1/18: Numpy & Pandas Part 1
-2 | 1/23: Pandas Part 2 / Plotting | 1/25: Exploratory Data Analysis | | HW 1 Assigned (Th)
+2 | 1/23: Exploratory Data Analysis | 1/25: Pandas Part 2 | | HW 1 Assigned (T)
 3 | 1/30: Statistics Fundamentals + Hypothesis Testing | 2/1: K-Nearest Neighbors||HW 1 Due (Th) 
 4 | 2/6: Linear Regression | 2/8: Logistic Regression / Classification Metrics   ||
 5 | 2/13: Cross Validation and Feature Engineering | 2/15:  Bias Variance Tradeoff / Regularization  || 
