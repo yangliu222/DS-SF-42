@@ -26,8 +26,8 @@ Week | Tuesday | Thursday | Project Milestone | HW
 2 | 1/23: Exploratory Data Analysis | 1/25: Pandas Part 2 | | HW 1 Assigned (T)
 3 | 1/30: Statistics Fundamentals + Hypothesis Testing | 2/1: K-Nearest Neighbors||HW 1 Due (Th) 
 4 | 2/6: Linear Regression | 2/8: Evaluating Model Fit   ||HW 2 Assigned (T) 
-5 | 2/13: Logistic Regression | 2/15:  Bias Variance Tradeoff / Regularization  || HW 2 Due (Th)
-6 | 2/20: Group Classification Challenge  | 2/22: Decision Trees| Project Proposal due (Th)|
+5 | 2/13: Group EDA Challenge | 2/15:  Logistic Regression  || HW 2 Due (Th)
+6 | 2/20: Decision Trees | 2/22: Group Classification Challenge| Project Proposal due (Th)|
 7 | 2/27: Ensembles | 3/1: Advanced Sklearn: Gridsearch and Pipelines | |  
 8 | 3/6: Group Regression Challenge | 3/8: SQL and Databases | | HW 3 Assigned (Tu)
 9 | 3/13: Natural Language Processing | 3/15: Dimensionality Reduction|| HW 3 Due (Th)
